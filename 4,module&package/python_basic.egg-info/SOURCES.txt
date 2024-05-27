@@ -1,0 +1,11 @@
+setup.py
+kaimu_package/__init__.py
+kaimu_package/talk/__init__.py
+kaimu_package/talk/animal.py
+kaimu_package/talk/human.py
+kaimu_package/tools/__init__.py
+kaimu_package/tools/utils.py
+python_basic.egg-info/PKG-INFO
+python_basic.egg-info/SOURCES.txt
+python_basic.egg-info/dependency_links.txt
+python_basic.egg-info/top_level.txt
